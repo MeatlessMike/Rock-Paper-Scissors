@@ -21,7 +21,7 @@ class ViewController: UIViewController {
     
     func assignbackground()
     {
-        let background = UIImage(named: "")
+        let background = UIImage(named: "background")
         
         var imageView : UIImageView!
         imageView = UIImageView(frame: view.bounds)
