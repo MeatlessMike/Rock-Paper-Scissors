@@ -15,6 +15,14 @@ class viewTwo: UIViewController {
         // Do any additional setup after loading the view.
     }
     
+    var receivingString = ""
+    var receivingInteger = 0
+    
+    
+    
+    
+    
+    
 
     /*
     // MARK: - Navigation
