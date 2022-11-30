@@ -23,7 +23,8 @@ class ViewController: UIViewController {
     
     @IBOutlet weak var stackView: UIStackView!
     
-  
+
+
     
     @IBOutlet weak var rock: UIImageView!
     
@@ -42,7 +43,7 @@ class ViewController: UIViewController {
                 choiceAsInteger = view.tag
 //                sellectImage.imag = images[pictureNames]
               
-                
+            
                 
             }
                 
